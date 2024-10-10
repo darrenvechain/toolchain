@@ -14,7 +14,7 @@ accounts to spam transactions.
 
 ### Example
 
-- This example has accounts already funded.
+- This example has the first 10 accounts funded.
 - It will fund a further 10 accounts.
 - 20 accounts will be used in the simulation.
 
